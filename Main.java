@@ -9,7 +9,7 @@ public class Main {
         // This line tells the computer to output text to the console (terminal).
         // 'System' is a built-in Java class, 'out' is the output stream, and 'println'
         // means 'print line'.
-        System.out.println("Hello World!");
+        System.out.println("Hello, World!");
 
     } // This curly brace closes the main method.
 } // This curly brace closes the Main class.
