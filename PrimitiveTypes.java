@@ -21,7 +21,7 @@ public class PrimitiveTypes {
         System.out.println("This is a long: " + viewsCount);
         System.out.println("This is a float: " + price);
         System.out.println("This is a char: " + letter);
-        System.out.println("This is a boolean: " + isEligible);
+        System.out.println("This is a boolean: " + isEligible)
 
     }
 }
