@@ -4,7 +4,7 @@ public class Main {
 
     void main() {
 
-        System.out.println("Java Level 01: System Ready!!!!!!");
+        System.out.println("Java Level 01: System Ready!");
     }
 }
 
