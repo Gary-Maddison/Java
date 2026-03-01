@@ -6,7 +6,7 @@ Display a simple welcome message of your choice to the screen.
 
 package Level_01_Basic_Output_and_Structure;
 
-public class Challenge_01_First_Contact {
+public class Challenge_1_First_Contact {
 
     void main() {
 

@@ -5,7 +5,7 @@ but the final result must appear on the screen as a single, continuous line with
 
 package Level_01_Basic_Output_and_Structure;
 
-public class Level_03_The_Seamless_Sentence {
+public class Challenge_3_The_Seamless_Sentence {
 
     void main() {
 

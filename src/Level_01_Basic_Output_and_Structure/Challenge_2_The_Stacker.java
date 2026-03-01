@@ -6,7 +6,7 @@
 
 package Level_01_Basic_Output_and_Structure;
 
-public class Level_02_The_Stacker {
+public class Challenge_2_The_Stacker {
 
     void main() {
         System.out.println("Hello, World");
