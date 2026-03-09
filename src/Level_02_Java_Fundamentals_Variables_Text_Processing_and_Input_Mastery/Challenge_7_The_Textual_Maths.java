@@ -10,6 +10,17 @@ public class Challenge_7_The_Textual_Maths {
 
     void main() {
 
+       String negativeOne = "-1977";
+       String negativeTwo = "-1966";
+
+       int numberOne = Integer.parseInt(negativeOne);
+       int numberTwo = Integer.parseInt(negativeTwo);
+
+       int total = numberOne + numberTwo;
+
+       String totalInString = String.valueOf(total);
+
+       System.out.println("Here I have converted two sum of integers into a string " + totalInString);
 
     }
 }
